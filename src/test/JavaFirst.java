@@ -10,6 +10,7 @@ public class JavaFirst {
 			for (int i=0;i<=255;i++)
 			{
 		System.out.println(i +"\t" + (char) i);
+				System.out.println("Updated by Jithu");
 		}
 		
 	}
